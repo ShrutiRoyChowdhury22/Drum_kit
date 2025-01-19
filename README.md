@@ -6,6 +6,6 @@ When you click on any of the seen buttons, you will get corresponding sound of d
 You can also use keys on the keyboard.
 
 # Technologies :
-### HTML
-### CSS
-### Javascript
+#### HTML
+#### CSS
+#### Javascript
